@@ -1,8 +1,6 @@
-/* ================================
-   🌌 Global Dark Theme
-================================ */
+
 body {
-  background-color: #121212;
+  background-color: #f4f7f3;
   color: #e0e0e0;
   font-family: "Inter", "Segoe UI", Arial, sans-serif;
   min-height: 100vh;
@@ -15,11 +13,8 @@ body {
   max-width: 850px;
 }
 
-/* ================================
-   🃏 Card Styling
-================================ */
 .card {
-  background-color: #1e1e1e;
+  background-color: #023809;
   border: 1px solid #2a2a2a;
   border-radius: 1rem;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
@@ -37,9 +32,6 @@ h5 {
   color: #00d4ff !important; /* neon cyan */
 }
 
-/* ================================
-   🚀 Buttons
-================================ */
 .btn-success {
   background: linear-gradient(135deg, #00d4ff, #00ff94);
   border: none;
@@ -51,11 +43,8 @@ h5 {
   transform: scale(1.03);
 }
 
-/* ================================
-   📂 File Input
-================================ */
 .form-control {
-  background-color: #2a2a2a;
+  background-color: #585858;
   color: #e0e0e0;
   border: 1px solid #444;
 }
@@ -77,9 +66,6 @@ h5 {
   box-shadow: 0 0 0 2px #00d4ff;
 }
 
-/* ================================
-   🏷️ Badges
-================================ */
 .badge {
   font-size: 0.9rem;
   padding: 0.5em 0.75em;
@@ -100,9 +86,6 @@ h5 {
   background-color: #4caf50 !important;
 }
 
-/* ================================
-   📑 List Items
-================================ */
 .list-group-item {
   background-color: #1e1e1e;
   border: 1px solid #333;
@@ -112,9 +95,6 @@ h5 {
   background-color: #2a2a2a;
 }
 
-/* ================================
-   📝 Extracted Text Box
-================================ */
 .extracted-text {
   background: linear-gradient(135deg, #1e1e1e, #2a2a2a);
   color: #ffffff;
@@ -150,9 +130,6 @@ h5 {
   background: #00ff94;
 }
 
-/* ================================
-   ✅ Status Panel
-================================ */
 .card .card-text {
   color: #a0fba0;
   font-weight: bold;
